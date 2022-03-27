@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d94ccc04-48cd-1784-87bf-e46b46a8009f
 resourcetype: Document
 title: Second Essay Topics
 uid: 975a7158-d638-cca8-e72f-3a300715132f
