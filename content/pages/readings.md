@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section provides details on the required texts for the course and
+  the reading assignments by session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: 4fd414f6-7297-3030-4676-cdb502706b13
 ---
