@@ -5,6 +5,7 @@ file: /courses/21g-010-introduction-to-european-and-latin-american-fiction-fall-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Second Essay Topics
 uid: 975a7158-d638-cca8-e72f-3a300715132f
 ---
 Suggested essay topics for a writing assignment.
-
