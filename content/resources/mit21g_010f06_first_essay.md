@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Suggested essay topics for a writing assignment.
-file: /courses/21g-010-introduction-to-european-and-latin-american-fiction-fall-2006/a564c5db72c534180d87bc1edb83d99e_MIT21G_010F06_first_essay.pdf
+file: /ol-ocw-studio-app/courses/21g-010-introduction-to-european-and-latin-american-fiction-fall-2006/a564c5db72c534180d87bc1edb83d99e_MIT21G_010F06_first_essay.pdf
 file_size: 89911
 file_type: application/pdf
 learning_resource_types:
